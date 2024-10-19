@@ -97,7 +97,7 @@ section{
 }
 .home .media-icons{
     z-index: 888;
-    position: absolute
+    position: absolute;
     right: 30px;
     display: flex;
     flex-direction: column;
