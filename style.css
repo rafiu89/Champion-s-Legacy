@@ -54,7 +54,7 @@ header .navigation .navigation-items a:hover::before{
 }
 
 section{
-    padding: 50px 100px;
+    padding: 100px 15px;
 }
 .home{
     position: relative;
